@@ -11,6 +11,6 @@ interface SpendDao {
     suspend fun addSpend(spend: Spend)
 
     @Query("SELECT * FROM spends ORDER BY date DESC LIMIT 20")
-    suspend fun getLast20Spends() : List<Spend>
+     fun getLast20Spends() : List<Spend>
 
 }
