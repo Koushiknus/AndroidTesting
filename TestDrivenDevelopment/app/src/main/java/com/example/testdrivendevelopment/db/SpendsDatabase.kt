@@ -7,7 +7,6 @@ import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
 
 @Database(entities = [Spend::class], version = 1)
-@TypeConverters(DateConverter::class)
 abstract class SpendsDatabase : RoomDatabase() {
     abstract fun getSpendDao(): SpendDao
 
