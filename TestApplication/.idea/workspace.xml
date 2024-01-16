@@ -17,12 +17,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccecb22a-0045-4d91-b223-8d009507a717" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CleanArchitectureNoteApp-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/java/com/example/interviewtestapplication/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/java/com/example/interviewtestapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/java/com/example/interviewtestapplication/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewTestApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestApplication2/app/src/main/java/com/example/testapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApplication2/app/src/main/java/com/example/testapplication/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +53,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
-    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/koushik/Desktop/AndroidProjects/AndroidTesting/TestApplication"
   }
 }]]></component>
   <component name="RunManager">
